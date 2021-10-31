@@ -13,7 +13,7 @@ Contact: yi.zhang1@insa-rennes.fr
 
 - [Peng Cui's Group](http://pengcui.thumedialab.com/#Publications)
   - Main Topic: Stable Learning & Causal Inference
-  - Relevant sources: [因果启发的稳定学习](https://www.bilibili.com/video/BV1Vq4y1H7eb/?spm_id_from=333.788.recommend_more_video.-1)
+  - Relevant sources: [因果启发的稳定学习等](https://search.bilibili.com/all?keyword=%E5%B4%94%E9%B9%8F%20%E5%9B%A0%E6%9E%9C&from_source=webtop_search&spm_id_from=333.788)
 
 - [Han-Wang Zhang's Group (MReaL Lab)](https://mreallab.github.io/publications.html)
    - Main Topics: Causality & Visual Language 
