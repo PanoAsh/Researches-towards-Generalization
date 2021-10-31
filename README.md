@@ -44,7 +44,7 @@ Contact: yi.zhang1@insa-rennes.fr
 
 - [Ruo-Cheng Gao's Group (City University of Hong Kong)](https://www.public.asu.edu/~rguo12/pub.html)
 
-- [Abbavaram Gowtham Reddy, etc (IIT Hyderabad)](https://www.causalityinvision.com/papers/0015.pdf)
+- [Abbavaram Gowtham Reddy, etc (IIT Hyderabad)](https://www.linkedin.com/in/gowthamabbavaram/?originalSubdomain=in)
 
 - [Sheg-Yu Zhang, etc. (Zhejiang University)](https://shengyuzhang.github.io/)
 
