@@ -46,7 +46,7 @@ Contact: yi.zhang1@insa-rennes.fr
 
 - [Abbavaram Gowtham Reddy, etc (IIT Hyderabad)](https://www.linkedin.com/in/gowthamabbavaram/?originalSubdomain=in)
 
-- [Sheg-Yu Zhang, etc. (Zhejiang University)](https://shengyuzhang.github.io/)
+- [Sheng-Yu Zhang, etc. (Zhejiang University)](https://shengyuzhang.github.io/)
 
 - [Chandan Singh, etc. (UC Berkeley)](https://csinva.io/)
 
