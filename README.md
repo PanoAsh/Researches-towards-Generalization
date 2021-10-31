@@ -1,6 +1,6 @@
 # Research Groups in Causality & Computer Vision 
 
-This repository provides information about researches in causality for computer vision.
+This repository provides information about researches in causality and causality for computer vision.
 
 Any contributions, suggestions and comments are welcomed!
 
@@ -25,6 +25,7 @@ Contact: yi.zhang1@insa-rennes.fr
    - Main Topics: Causality & Visual Language 
    - Relevant Sources:
      - [因果推理在计算机视觉进展等](https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%90%AB%E6%9C%9B&from_source=webtop_search&spm_id_from=333.851)
+     - [ICCV-21 Workshop](https://www.causalityinvision.com/)
 
 - [Brady Neal & Yoshua Bengio (Mila)](https://www.bradyneal.com/)
    - Relevant Sources:
@@ -33,4 +34,9 @@ Contact: yi.zhang1@insa-rennes.fr
 - [Bernhard Schölkopf's Group (Max Plank - Tübingen)](https://www.is.mpg.de/~bs)
    - Relevant Sources:
      - [Causality for Machine Learning](https://arxiv.org/abs/1911.10500)
+
+- [Microsoft](https://www.microsoft.com/en-us/research/group/causal-inference/#publications)
+
+- [Julie Josse's Group (Inria)](http://juliejosse.com/publications/)
+  - Main Topics: Causal Inference & Missing Data, etc.
 
