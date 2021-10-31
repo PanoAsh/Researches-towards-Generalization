@@ -40,3 +40,10 @@ Contact: yi.zhang1@insa-rennes.fr
 - [Julie Josse's Group (Inria)](http://juliejosse.com/publications/)
   - Main Topics: Causal Inference & Missing Data, etc.
 
+- [Song-Chun Zhu's Group](http://vcla.stat.ucla.edu/publications.html)
+
+- [Ruo-Cheng Gao's Group](https://www.public.asu.edu/~rguo12/pub.html)
+
+- [Abbavaram Gowtham Reddy, etc (IIT Hyderabad)](https://www.causalityinvision.com/papers/0015.pdf)
+
+
