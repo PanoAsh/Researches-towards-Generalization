@@ -44,13 +44,13 @@ Contact: yi.zhang1@insa-rennes.fr
 
 - [Ruo-Cheng Gao's Group (City University of Hong Kong)](https://www.public.asu.edu/~rguo12/pub.html)
 
-- [Abbavaram Gowtham Reddy, etc (IIT Hyderabad)](https://www.linkedin.com/in/gowthamabbavaram/?originalSubdomain=in)
+- [Abbavaram Gowtham Reddy, et al. (IIT Hyderabad)](https://www.linkedin.com/in/gowthamabbavaram/?originalSubdomain=in)
 
-- [Sheng-Yu Zhang, etc. (Zhejiang University)](https://shengyuzhang.github.io/)
+- [Sheng-Yu Zhang, et al. (Zhejiang University)](https://shengyuzhang.github.io/)
 
-- [Chandan Singh, etc. (UC Berkeley)](https://csinva.io/)
+- [Chandan Singh, et al. (UC Berkeley)](https://csinva.io/)
 
-- [Yuval Atzmon, etc. (NVIDIA)](https://research.nvidia.com/person/yuval-atzmon)
+- [Yuval Atzmon, et al. (NVIDIA)](https://research.nvidia.com/person/yuval-atzmon)
 
 ------
 ## Relevant Links
