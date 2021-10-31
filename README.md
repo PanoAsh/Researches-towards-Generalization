@@ -11,17 +11,17 @@ Contact: yi.zhang1@insa-rennes.fr
 ------
 > Note: Authors listed in no particular order.
 
-- [Judea Pearl's Group](http://bayes.cs.ucla.edu/jp_home.html)
+- [Judea Pearl's Group (UCLA)](http://bayes.cs.ucla.edu/jp_home.html)
   - Main Topics: Causal Model, etc.
   - Relevant Sources: 
     - [The Book of Why](https://whuteducn-my.sharepoint.com/personal/frankliuceo_whut_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffrankliuceo%5Fwhut%5Fedu%5Fcn%2FDocuments%2Fstorage%2Fshare%5Fcausal%2FThe%20Book%20of%20Why%20%2D%20Judea%20Pearl%2Epdf&parent=%2Fpersonal%2Ffrankliuceo%5Fwhut%5Fedu%5Fcn%2FDocuments%2Fstorage%2Fshare%5Fcausal), etc.
 
-- [Peng Cui's Group](http://pengcui.thumedialab.com/#Publications)
+- [Peng Cui's Group (Tsinghua University)](http://pengcui.thumedialab.com/#Publications)
   - Main Topics: Stable Learning & Causal Inference
   - Relevant Sources:
     - [因果启发的稳定学习等](https://search.bilibili.com/all?keyword=%E5%B4%94%E9%B9%8F%20%E5%9B%A0%E6%9E%9C&from_source=webtop_search&spm_id_from=333.788)
 
-- [Han-Wang Zhang's Group (MReaL Lab)](https://mreallab.github.io/publications.html)
+- [Han-Wang Zhang's Group (Nanyang Technological University)](https://mreallab.github.io/publications.html)
    - Main Topics: Causality & Visual Language 
    - Relevant Sources:
      - [因果推理在计算机视觉进展等](https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%90%AB%E6%9C%9B&from_source=webtop_search&spm_id_from=333.851)
@@ -40,17 +40,17 @@ Contact: yi.zhang1@insa-rennes.fr
 - [Julie Josse's Group (Inria)](http://juliejosse.com/publications/)
   - Main Topics: Causal Inference & Missing Data, etc.
 
-- [Song-Chun Zhu's Group](http://vcla.stat.ucla.edu/publications.html)
+- [Song-Chun Zhu's Group (UCLA)](http://vcla.stat.ucla.edu/publications.html)
 
-- [Ruo-Cheng Gao's Group](https://www.public.asu.edu/~rguo12/pub.html)
+- [Ruo-Cheng Gao's Group (City University of Hong Kong)](https://www.public.asu.edu/~rguo12/pub.html)
 
 - [Abbavaram Gowtham Reddy, etc (IIT Hyderabad)](https://www.causalityinvision.com/papers/0015.pdf)
 
-- [Sheg-Yu Zhang, etc.](https://shengyuzhang.github.io/)
+- [Sheg-Yu Zhang, etc. (Zhejiang University)](https://shengyuzhang.github.io/)
 
-- [Chandan Singh, etc.](https://csinva.io/)
+- [Chandan Singh, etc. (UC Berkeley)](https://csinva.io/)
 
-- [Yuval Atzmon, etc.](https://research.nvidia.com/person/yuval-atzmon)
+- [Yuval Atzmon, etc. (NVIDIA)](https://research.nvidia.com/person/yuval-atzmon)
 
 ------
 ## Relevant Links
