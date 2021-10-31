@@ -46,6 +46,12 @@ Contact: yi.zhang1@insa-rennes.fr
 
 - [Abbavaram Gowtham Reddy, etc (IIT Hyderabad)](https://www.causalityinvision.com/papers/0015.pdf)
 
+- [Sheg-Yu Zhang, etc.](https://shengyuzhang.github.io/)
+
+- [Chandan Singh, etc.](https://csinva.io/)
+
+- [Yuval Atzmon, etc.](https://research.nvidia.com/person/yuval-atzmon)
+
 ------
 ## Relevant Links
 
