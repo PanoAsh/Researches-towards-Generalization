@@ -53,7 +53,7 @@ Contact: yi.zhang1@insa-rennes.fr
 - [Yuval Atzmon, et al. (NVIDIA)](https://research.nvidia.com/person/yuval-atzmon)
 
 ------
-## Relevant Links
+## Useful Links
 
 [Awesome Causal Vision](https://github.com/wangzheng17/awesome-causal-vision)
 
