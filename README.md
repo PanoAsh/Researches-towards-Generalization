@@ -46,4 +46,11 @@ Contact: yi.zhang1@insa-rennes.fr
 
 - [Abbavaram Gowtham Reddy, etc (IIT Hyderabad)](https://www.causalityinvision.com/papers/0015.pdf)
 
+------
+## Relevant Links
+
+[Awesome Causal Vision](https://github.com/wangzheng17/awesome-causal-vision)
+
+[Awesome Causality Algorithms](https://github.com/rguo12/awesome-causality-algorithms)
+
 
