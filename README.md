@@ -1,5 +1,4 @@
 # Research Groups in Causality & Computer Vision 
-A collection of researches in causality and causality for computer vision, virtual reality and augmented reality
 
 This repository provides information about researches in causality and causality for computer vision, virtual reality and augmented reality.
 
