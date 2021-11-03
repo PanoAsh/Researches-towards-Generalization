@@ -8,8 +8,8 @@ Contact: yi.zhang1@insa-rennes.fr
 
 :running: :running: :running: ***KEEP UPDATING***.
 
-> Note: Authors listed in no particular order.
 ---
+> Note: Authors listed in no particular order.
 
 ### [Judea Pearl's Group (UCLA)](http://bayes.cs.ucla.edu/jp_home.html)
   - Main Topics: Causal Model, etc.
