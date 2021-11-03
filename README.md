@@ -32,7 +32,7 @@ Contact: yi.zhang1@insa-rennes.fr
    - Main Topics: Causality & Visual Language 
    - Publications
      - [[2020][CVPR][Visual Commonsense R-CNN]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Visual_Commonsense_R-CNN_CVPR_2020_paper.pdf)
-       - key points: backdoor adjustment, simpson paradox on MS-COCO
+       - key points: backdoor adjustment, Simpson's paradox on MS-COCO
    - Relevant Sources:
      - [因果推理在计算机视觉进展等](https://search.bilibili.com/all?keyword=%E5%BC%A0%E5%90%AB%E6%9C%9B&from_source=webtop_search&spm_id_from=333.851)
      - [ICCV-21 Workshop](https://www.causalityinvision.com/)
