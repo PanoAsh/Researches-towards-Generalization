@@ -19,7 +19,7 @@ Contact: yi.zhang1@insa-rennes.fr
 - [Peng Cui's Group (Tsinghua University)](http://pengcui.thumedialab.com/#Publications)
   - Main Topics: Stable Learning & Causal Inference
   - Publications
-    - [2018][ACM MM][Causally Regularized Learning with Agnostic Data Selection Bias](https://arxiv.org/abs/1708.06656)
+    - [[2018][ACM MM][Causally Regularized Learning with Agnostic Data Selection Bias]](https://arxiv.org/abs/1708.06656)
        - key points: sample re-weighting, confounder balancing, causally regularized logistic regression
   - Relevant Sources:
     - [因果启发的稳定学习等](https://search.bilibili.com/all?keyword=%E5%B4%94%E9%B9%8F%20%E5%9B%A0%E6%9E%9C&from_source=webtop_search&spm_id_from=333.788)
