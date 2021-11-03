@@ -10,8 +10,8 @@ Contact: yi.zhang1@insa-rennes.fr
 
 > Note: Authors listed in no particular order.
 
----
-#### [Judea Pearl's Group (UCLA)](http://bayes.cs.ucla.edu/jp_home.html)
+### [Judea Pearl's Group (UCLA)](http://bayes.cs.ucla.edu/jp_home.html)
+
   - Main Topics: Causal Model, etc.
   - Relevant Sources: 
     - [The Book of Why](https://whuteducn-my.sharepoint.com/personal/frankliuceo_whut_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffrankliuceo%5Fwhut%5Fedu%5Fcn%2FDocuments%2Fstorage%2Fshare%5Fcausal%2FThe%20Book%20of%20Why%20%2D%20Judea%20Pearl%2Epdf&parent=%2Fpersonal%2Ffrankliuceo%5Fwhut%5Fedu%5Fcn%2FDocuments%2Fstorage%2Fshare%5Fcausal), etc.
