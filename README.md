@@ -16,7 +16,7 @@ Contact: yi.zhang1@insa-rennes.fr
   - Relevant Sources: 
     - [The Book of Why](https://whuteducn-my.sharepoint.com/personal/frankliuceo_whut_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ffrankliuceo%5Fwhut%5Fedu%5Fcn%2FDocuments%2Fstorage%2Fshare%5Fcausal%2FThe%20Book%20of%20Why%20%2D%20Judea%20Pearl%2Epdf&parent=%2Fpersonal%2Ffrankliuceo%5Fwhut%5Fedu%5Fcn%2FDocuments%2Fstorage%2Fshare%5Fcausal), etc.
     
--
+---
 
 #### [Peng Cui's Group (Tsinghua University)](http://pengcui.thumedialab.com/#Publications)
   - Main Topics: Stable Learning & Causal Inference
