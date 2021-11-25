@@ -67,4 +67,4 @@ Contact: yi.zhang1@insa-rennes.fr
 
 [Awesome Causality Algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 
-
+[Why Machine Learning Struggles with Causality](https://bdtechtalks.com/2021/03/15/machine-learning-causality/)
