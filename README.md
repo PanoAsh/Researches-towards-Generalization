@@ -70,3 +70,5 @@ Contact: yi.zhang1@insa-rennes.fr
 [Why Machine Learning Struggles with Causality](https://bdtechtalks.com/2021/03/15/machine-learning-causality/)
 
 [A Crash Course in Causality](https://www.coursera.org/learn/crash-course-in-causality)
+
+[Causality and Bayesian Networks](https://towardsdatascience.com/causality-and-bayesian-networks-fcd959d4c80a)
