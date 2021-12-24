@@ -9,6 +9,7 @@ Contact: yi.zhang1@insa-rennes.fr
 :running: :running: :running: ***KEEP UPDATING***.
 
 ---
+## People
 > Note: Authors listed in no particular order.
 
 ### [Judea Pearl's Group (UCLA)](http://bayes.cs.ucla.edu/jp_home.html)
@@ -60,6 +61,11 @@ Contact: yi.zhang1@insa-rennes.fr
 
 ### [Yuval Atzmon, et al. (NVIDIA)](https://research.nvidia.com/person/yuval-atzmon)
 
+------
+## Causality & Audio Visual Learning
+
+[[2012][Humanoids][Active audio-visual integration for Voice Activity Detection based on a Causal Bayesian Network]](https://ieeexplore.ieee.org/document/6651546/citations?tabFilter=papers#citations)
+ 
 ------
 ## Useful Links
 
