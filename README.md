@@ -61,6 +61,8 @@ Contact: yi.zhang1@insa-rennes.fr
 
 ### [Yuval Atzmon, et al. (NVIDIA)](https://research.nvidia.com/person/yuval-atzmon)
 
+### [Wang Miao's Group](https://www.math.pku.edu.cn/teachers/mwfy/)
+
 ------
 ## Causality & Audio Visual Learning
 
