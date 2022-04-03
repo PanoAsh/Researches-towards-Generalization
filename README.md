@@ -28,8 +28,9 @@ This repository summarizes recent publications towards causal learning.
 17 | **2021**| **CVPR** |  Counterfactual VQA: A Cause-Effect Look at Language Bias | [Paper](https://arxiv.org/pdf/2006.04315.pdf)/[Code](https://github.com/yuleiniu/cfvqa)
 18 | **2021**| **CVPR** | Counterfactual Zero-Shot and Open-Set Visual Recognition  | [Paper](https://arxiv.org/pdf/2103.00887.pdf)/[Code](https://github.com/yue-zhongqi/gcm-cf)
 19 | **2021**| **CVPR** | Causal Attention for Vision-Language Tasks  | [Paper](https://arxiv.org/pdf/2103.03493.pdf)/[Code](https://github.com/yangxuntu/lxmertcatt)
-20 | **2021**| **SIGIR** | Deconfounded Video Moment Retrieval with Causal Intervention | [Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462823)/[Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
-21 | **2020**| **PR** | Towards Non-I.I.D. Image Classification: A Dataset and Baselines | [Paper](http://pengcui.thumedialab.com/papers/NICO.pdf)/[Code](https://nico.thumedialab.com/)
+20 | **2021**| **CVPR** | Deep Stable Learning for Out-Of-Distribution Generalization | [Paper](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)/Code
+21 | **2021**| **SIGIR** | Deconfounded Video Moment Retrieval with Causal Intervention | [Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462823)/[Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
+22 | **2020**| **PR** | Towards Non-I.I.D. Image Classification: A Dataset and Baselines | [Paper](http://pengcui.thumedialab.com/papers/NICO.pdf)/[Code](https://nico.thumedialab.com/)
 
 ------
 ## Cross domain & out-of-distribution detection with other methodologies
@@ -38,7 +39,6 @@ This repository summarizes recent publications towards causal learning.
 :-: | :-:| :-: | :-  | :-: 
 01 | **2022**| **AAAI** | Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification | [Paper](https://arxiv.org/pdf/2112.14380.pdf)/[Code](https://github.com/BeierZhu/xERM)
 02 | **2022**| **CVPR** | Towards Unsupervised Domain Generalization | [Paper](http://pengcui.thumedialab.com/papers/UDG.pdf)/Code
-03 | **2021**| **CVPR** | Deep Stable Learning for Out-Of-Distribution Generalization | [Paper](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)/Code
 
 ------
 ## Reviews
