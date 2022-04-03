@@ -1,6 +1,6 @@
-# Researchs in Causality & Computer Vision 
+# Researchs in Causality 
 
-This repository provides recent publications towards causal learning.
+This repository summarizes recent publications towards causal learning.
 
 Contact: yi.panoash@gmail.com
 
