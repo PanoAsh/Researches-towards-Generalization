@@ -69,7 +69,7 @@ Contact: yi.zhang1@insa-rennes.fr
 [[2012][Humanoids][Active audio-visual integration for Voice Activity Detection based on a Causal Bayesian Network]](https://ieeexplore.ieee.org/document/6651546/citations?tabFilter=papers#citations)
  
 ------
-## Useful Links
+## Relative Links
 
 [Awesome Causal Vision](https://github.com/wangzheng17/awesome-causal-vision)
 
