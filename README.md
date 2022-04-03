@@ -21,13 +21,14 @@ This repository summarizes recent publications towards causal learning.
 10 | **2022**| **ICLR** | Optimal Transport for Causal Discovery  | [Paper](https://openreview.net/pdf?id=qwBK94cP1y)/Code
 11 | **2022**| **AAAI** | Deconfounded Visual Grounding  | [Paper](https://arxiv.org/pdf/2112.15324.pdf)/[Code](https://github.com/JianqiangH/Deconfounded_VG)
 12 | **2022**| **TPAMI** | Deconfounded Image Captioning: A Causal Retrospect  | [Paper](https://ieeexplore.ieee.org/abstract/document/9583890)/Code
-13 | **2021**| **ICCV** | Transporting Causal Mechanisms for Unsupervised Domain Adaptation  | [Paper](https://arxiv.org/pdf/2107.11055.pdf)/[Code](https://github.com/yue-zhongqi/tcm)
-14 | **2021**| **ICCV** | Causal Attention for Unbiased Visual Recognition  | [Paper](https://arxiv.org/pdf/2108.08782.pdf)/[Code](https://github.com/Wangt-CN/CaaM)
-15 | **2021**| **CVPR** | Distilling Causal Effect of Data in Class-Incremental Learning  | [Paper](https://arxiv.org/pdf/2103.01737.pdf)/[Code](https://github.com/JoyHuYY1412/DDE_CIL)
-16 | **2021**| **CVPR** |  Counterfactual VQA: A Cause-Effect Look at Language Bias | [Paper](https://arxiv.org/pdf/2006.04315.pdf)/[Code](https://github.com/yuleiniu/cfvqa)
-17 | **2021**| **CVPR** | Counterfactual Zero-Shot and Open-Set Visual Recognition  | [Paper](https://arxiv.org/pdf/2103.00887.pdf)/[Code](https://github.com/yue-zhongqi/gcm-cf)
-18 | **2021**| **CVPR** | Causal Attention for Vision-Language Tasks  | [Paper](https://arxiv.org/pdf/2103.03493.pdf)/[Code](https://github.com/yangxuntu/lxmertcatt)
-19 | **2021**| **SIGIR** | Deconfounded Video Moment Retrieval with Causal Intervention | [Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462823)/[Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
+13 | **2022**| **Nature** | Stable learning establishes some common ground between causal inference and machine learning  | [Paper](https://www.nature.com/articles/s42256-022-00445-z.epdf?sharing_token=b5zBzlsL661JkJydIPXrkNRgN0jAjWel9jnR3ZoTv0MR98d9Rzp5qOPmi3MxFSxan_G3mYRXdzS3-SNdo-Zba6fswLOfWQwkpNZdyzUH1E30rtM-gRwYttz4sfjVYhfTM_YQAYNf3z-q30T_1M-e93kaJSwzhE3IsrJL73AkUkw%3D)/Code
+14 | **2021**| **ICCV** | Transporting Causal Mechanisms for Unsupervised Domain Adaptation  | [Paper](https://arxiv.org/pdf/2107.11055.pdf)/[Code](https://github.com/yue-zhongqi/tcm)
+15 | **2021**| **ICCV** | Causal Attention for Unbiased Visual Recognition  | [Paper](https://arxiv.org/pdf/2108.08782.pdf)/[Code](https://github.com/Wangt-CN/CaaM)
+16 | **2021**| **CVPR** | Distilling Causal Effect of Data in Class-Incremental Learning  | [Paper](https://arxiv.org/pdf/2103.01737.pdf)/[Code](https://github.com/JoyHuYY1412/DDE_CIL)
+17 | **2021**| **CVPR** |  Counterfactual VQA: A Cause-Effect Look at Language Bias | [Paper](https://arxiv.org/pdf/2006.04315.pdf)/[Code](https://github.com/yuleiniu/cfvqa)
+18 | **2021**| **CVPR** | Counterfactual Zero-Shot and Open-Set Visual Recognition  | [Paper](https://arxiv.org/pdf/2103.00887.pdf)/[Code](https://github.com/yue-zhongqi/gcm-cf)
+19 | **2021**| **CVPR** | Causal Attention for Vision-Language Tasks  | [Paper](https://arxiv.org/pdf/2103.03493.pdf)/[Code](https://github.com/yangxuntu/lxmertcatt)
+20 | **2021**| **SIGIR** | Deconfounded Video Moment Retrieval with Causal Intervention | [Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462823)/[Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
 
 ------
 ## Cross domain & out-of-distribution detection with other methodologies
@@ -35,6 +36,16 @@ This repository summarizes recent publications towards causal learning.
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-:| :-: | :-  | :-: 
 01 | **2022**| **AAAI** | Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification | [Paper](https://arxiv.org/pdf/2112.14380.pdf)/[Code](https://github.com/BeierZhu/xERM)
+02 | **2022**| **CVPR** | Towards Unsupervised Domain Generalization | [Paper](http://pengcui.thumedialab.com/papers/UDG.pdf)/Code
+03 | **2021**| **CVPR** | Deep Stable Learning for Out-Of-Distribution Generalization | [Paper](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)/Code
+
+------
+## Reviews
+
+**No.** | **Year** | **Pub.** | **Title** | **Links** 
+:-: | :-:| :-: | :-  | :-: 
+01 | **2021**| **arXiv** | Toward Causal Representation Learning  | [Paper](https://arxiv.org/pdf/2102.11107.pdf)/Code
+02 | **2021**| **arXiv** | Towards Out-Of-Distribution Generalization: A Survey | [Paper](http://pengcui.thumedialab.com/papers/OOD_Survey.pdf)/Code
  
 ------
 ## Relative Links
