@@ -47,6 +47,7 @@ This repository summarizes recent publications towards causal learning.
 :-: | :-:| :-: | :-  | :-: 
 01 | **2021**| **arXiv** | Toward Causal Representation Learning  | [Paper](https://arxiv.org/pdf/2102.11107.pdf)/Code
 02 | **2021**| **arXiv** | Towards Out-Of-Distribution Generalization: A Survey | [Paper](http://pengcui.thumedialab.com/papers/OOD_Survey.pdf)/Code
+03 | **2021**| **arXiv** | Dense Uncertainty Estimation | [Paper](https://arxiv.org/pdf/2110.06427.pdf)/[Code](https://github.com/JingZhang617/UncertaintyEstimation)
  
 ------
 ## Relative Links
@@ -75,7 +76,6 @@ This repository summarizes recent publications towards causal learning.
 
 [Causality and Bayesian Networks](https://towardsdatascience.com/causality-and-bayesian-networks-fcd959d4c80a)
 
-[Dense Uncertainty Estimation](https://arxiv.org/pdf/2110.06427.pdf)
 
 ------
 ## Contact
