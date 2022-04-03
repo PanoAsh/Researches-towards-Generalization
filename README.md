@@ -75,6 +75,8 @@ This repository summarizes recent publications towards causal learning.
 
 [Causality and Bayesian Networks](https://towardsdatascience.com/causality-and-bayesian-networks-fcd959d4c80a)
 
+[Dense Uncertainty Estimation](https://arxiv.org/pdf/2110.06427.pdf)
+
 ------
 ## Contact
 
