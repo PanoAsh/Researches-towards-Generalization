@@ -30,7 +30,9 @@ This repository summarizes recent publications towards causal learning.
 19 | **2021**| **CVPR** | Causal Attention for Vision-Language Tasks  | [Paper](https://arxiv.org/pdf/2103.03493.pdf)/[Code](https://github.com/yangxuntu/lxmertcatt)
 20 | **2021**| **CVPR** | Deep Stable Learning for Out-Of-Distribution Generalization | [Paper](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)/Code
 21 | **2021**| **SIGIR** | Deconfounded Video Moment Retrieval with Causal Intervention | [Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462823)/[Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
-22 | **2020**| **PR** | Towards Non-I.I.D. Image Classification: A Dataset and Baselines | [Paper](http://pengcui.thumedialab.com/papers/NICO.pdf)/[Code](https://nico.thumedialab.com/)
+22 | **2021**| **BMVC** | ECINN: Efficient Counterfactuals from Invertible Neural Networks | [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0570.pdf)/Code
+23 | **2020**| **PR** | Towards Non-I.I.D. Image Classification: A Dataset and Baselines | [Paper](http://pengcui.thumedialab.com/papers/NICO.pdf)/[Code](https://nico.thumedialab.com/)
+24 | **2018**| **ACM MM** | Causally Regularized Learning with Agnostic Data Selection Bias | [Paper](https://arxiv.org/pdf/1708.06656.pdf)/Code
 
 ------
 ## Cross domain & out-of-distribution detection with other methodologies
