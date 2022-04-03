@@ -1,8 +1,6 @@
 # Researches in Causality & Deep Learning
 
-This repository summarizes recent publications towards causal learning. 
-
-Contact: yi.panoash@gmail.com
+This repository summarizes recent publications towards causal learning.
 
 :running: :running: :running: ***KEEP UPDATING***
 
@@ -21,7 +19,7 @@ Contact: yi.panoash@gmail.com
 08 | **2022**| **ICLR** | Learning Causal Relationships from Conditional Moment Restrictions by Importance Weighting | [Paper](https://openreview.net/pdf?id=7twQI5VnC8)/Code
 09 | **2022**| **ICLR** | Learning Temporally Causal Latent Processes from General Temporal Data  | [Paper](https://openreview.net/pdf?id=RDlLMjLJXdq)/[Code](https://github.com/anonymous-authors-iclr2022-481/leap)
 10 | **2022**| **ICLR** | Optimal Transport for Causal Discovery  | [Paper](https://openreview.net/pdf?id=qwBK94cP1y)/Code
-11 | **2022**| **AAAI** | Deconfounded Visual Grounding  | [Paper](https://arxiv.org/pdf/2112.15324.pdf)/[Code] (https://github.com/JianqiangH/Deconfounded_VG)
+11 | **2022**| **AAAI** | Deconfounded Visual Grounding  | [Paper](https://arxiv.org/pdf/2112.15324.pdf)/[Code](https://github.com/JianqiangH/Deconfounded_VG)
 12 | **2022**| **TPAMI** | Deconfounded Image Captioning: A Causal Retrospect  | [Paper](https://ieeexplore.ieee.org/abstract/document/9583890)/[Code]
 13 | **2021**| **ICCV** | Transporting Causal Mechanisms for Unsupervised Domain Adaptation  | [Paper](https://arxiv.org/pdf/2107.11055.pdf)/[Code](https://github.com/yue-zhongqi/tcm)
 14 | **2021**| **ICCV** | Causal Attention for Unbiased Visual Recognition  | [Paper](https://arxiv.org/pdf/2108.08782.pdf)/[Code](https://github.com/Wangt-CN/CaaM)
@@ -58,3 +56,8 @@ Contact: yi.panoash@gmail.com
 [A Crash Course in Causality](https://www.coursera.org/learn/crash-course-in-causality)
 
 [Causality and Bayesian Networks](https://towardsdatascience.com/causality-and-bayesian-networks-fcd959d4c80a)
+
+------
+## Contact
+
+yi.panoash@gmail.com
