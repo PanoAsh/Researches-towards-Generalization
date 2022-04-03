@@ -1,10 +1,8 @@
 # Researchs in Causality & Computer Vision 
 
-This repository provides information about researches in causality and causality for computer vision, virtual reality and augmented reality.
+This repository provides recent publications towards causal learning.
 
-Any contributions, suggestions and comments are welcomed!
-
-Contact: yi.zhang1@insa-rennes.fr
+Contact: yi.panoash@gmail.com
 
 :running: :running: :running: ***KEEP UPDATING***.
 
