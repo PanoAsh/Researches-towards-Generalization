@@ -7,19 +7,36 @@ Contact: yi.panoash@gmail.com
 :running: :running: :running: ***KEEP UPDATING***
 
 ------
+## Causality
 
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-:| :-: | :-  | :-: 
-01 | **2022**| **ICLR** | Adversarial Robustness Through the Lens of Causality | [Paper](https://openreview.net/pdf?id=cZAi1yWpiXQ)/[Code]() 
-02 | **2022**| **ICLR** | Identifying and Estimating Causal Effects under Limited Overlap | [Paper](https://openreview.net/pdf?id=q7n2RngwOM)/[Code]() 
-03 | **2022**| **ICLR** | Causal Contextual Bandits with Targeted Interventions  | [Paper](https://openreview.net/pdf?id=F5Em8ASCosV)/[Code]() 
+01 | **2022**| **ICLR** | Adversarial Robustness Through the Lens of Causality | [Paper](https://openreview.net/pdf?id=cZAi1yWpiXQ)/[Code](https://github.com/YonggangZhangUSTC/CausalAdv)
+02 | **2022**| **ICLR** | Identifying and Estimating Causal Effects under Limited Overlap | [Paper](https://openreview.net/pdf?id=q7n2RngwOM)/Code
+03 | **2022**| **ICLR** | Causal Contextual Bandits with Targeted Interventions  | [Paper](https://openreview.net/pdf?id=F5Em8ASCosV)/Code
 04 | **2022**| **ICLR** | Salient ImageNet: How to discover spurious features in Deep Learning? | [Paper](https://openreview.net/pdf?id=XVPqLyNxSyh)/[Code](https://github.com/singlasahil14/salient_imagenet)
-05 | **2022**| **ICLR** | Efficient Neural Causal Discovery without Acyclicity Constraints | [Paper](https://openreview.net/pdf?id=eYciPrLuUhG)/[Code]()
-06 | **2022**| **ICLR** | Granger causal inference on DAGs identifies genomic loci regulating transcription | [Paper](https://openreview.net/pdf?id=nZOUYEN6Wvy)/[Code]()
-07 | **2022**| **ICLR** | Invariant Causal Representation Learning for Out-of-Distribution Generalization | [Paper](https://openreview.net/pdf?id=-e4EXDWXnSn)/[Code]()
-08 | **2022**| **ICLR** | Learning Causal Relationships from Conditional Moment Restrictions by Importance Weighting | [Paper](https://openreview.net/pdf?id=7twQI5VnC8)/[Code]()
-09 | **2022**| **ICLR** | Learning Temporally Causal Latent Processes from General Temporal Data  | [Paper](https://openreview.net/pdf?id=RDlLMjLJXdq)/[Code]()
-10 | **2022**| **ICLR** | Optimal Transport for Causal Discovery  | [Paper](https://openreview.net/pdf?id=qwBK94cP1y)/[Code]()
+05 | **2022**| **ICLR** | Efficient Neural Causal Discovery without Acyclicity Constraints | [Paper](https://openreview.net/pdf?id=eYciPrLuUhG)/[Code](https://github.com/phlippe/ENCO)
+06 | **2022**| **ICLR** | Granger causal inference on DAGs identifies genomic loci regulating transcription | [Paper](https://openreview.net/pdf?id=nZOUYEN6Wvy)/Code
+07 | **2022**| **ICLR** | Invariant Causal Representation Learning for Out-of-Distribution Generalization | [Paper](https://openreview.net/pdf?id=-e4EXDWXnSn)/Code
+08 | **2022**| **ICLR** | Learning Causal Relationships from Conditional Moment Restrictions by Importance Weighting | [Paper](https://openreview.net/pdf?id=7twQI5VnC8)/Code
+09 | **2022**| **ICLR** | Learning Temporally Causal Latent Processes from General Temporal Data  | [Paper](https://openreview.net/pdf?id=RDlLMjLJXdq)/[Code](https://github.com/anonymous-authors-iclr2022-481/leap)
+10 | **2022**| **ICLR** | Optimal Transport for Causal Discovery  | [Paper](https://openreview.net/pdf?id=qwBK94cP1y)/Code
+11 | **2022**| **AAAI** | Deconfounded Visual Grounding  | [Paper](https://arxiv.org/pdf/2112.15324.pdf)/[Code] (https://github.com/JianqiangH/Deconfounded_VG)
+12 | **2022**| **TPAMI** | Deconfounded Image Captioning: A Causal Retrospect  | [Paper](https://ieeexplore.ieee.org/abstract/document/9583890)/[Code]
+13 | **2021**| **ICCV** | Transporting Causal Mechanisms for Unsupervised Domain Adaptation  | [Paper](https://arxiv.org/pdf/2107.11055.pdf)/[Code](https://github.com/yue-zhongqi/tcm)
+14 | **2021**| **ICCV** | Causal Attention for Unbiased Visual Recognition  | [Paper](https://arxiv.org/pdf/2108.08782.pdf)/[Code](https://github.com/Wangt-CN/CaaM)
+15 | **2021**| **CVPR** | Distilling Causal Effect of Data in Class-Incremental Learning  | [Paper](https://arxiv.org/pdf/2103.01737.pdf)/[Code](https://github.com/JoyHuYY1412/DDE_CIL)
+16 | **2021**| **CVPR** |  Counterfactual VQA: A Cause-Effect Look at Language Bias | [Paper](https://arxiv.org/pdf/2006.04315.pdf)/[Code](https://github.com/yuleiniu/cfvqa)
+17 | **2021**| **CVPR** | Counterfactual Zero-Shot and Open-Set Visual Recognition  | [Paper](https://arxiv.org/pdf/2103.00887.pdf)/[Code](https://github.com/yue-zhongqi/gcm-cf)
+18 | **2021**| **CVPR** | Causal Attention for Vision-Language Tasks  | [Paper](https://arxiv.org/pdf/2103.03493.pdf)/[Code](https://github.com/yangxuntu/lxmertcatt)
+19 | **2021**| **SIGIR** | Deconfounded Video Moment Retrieval with Causal Intervention | [Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462823)/[Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
+
+------
+## Cross domain & out-of-distribution detection with other methodologies
+
+**No.** | **Year** | **Pub.** | **Title** | **Links** 
+:-: | :-:| :-: | :-  | :-: 
+01 | **2022**| **AAAI** | Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification | [Paper](https://arxiv.org/pdf/2112.14380.pdf)/[Code](https://github.com/BeierZhu/xERM)
  
 ------
 ## Relative Links
