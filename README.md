@@ -1,6 +1,6 @@
-# Researches in Causality 
+# Researches in Causality & Deep Learning
 
-This repository summarizes recent publications towards causal learning.
+This repository summarizes recent publications towards causal learning. 
 
 Contact: yi.panoash@gmail.com
 
