@@ -29,6 +29,7 @@ This repository summarizes recent publications towards causal learning.
 18 | **2021**| **CVPR** | Counterfactual Zero-Shot and Open-Set Visual Recognition  | [Paper](https://arxiv.org/pdf/2103.00887.pdf)/[Code](https://github.com/yue-zhongqi/gcm-cf)
 19 | **2021**| **CVPR** | Causal Attention for Vision-Language Tasks  | [Paper](https://arxiv.org/pdf/2103.03493.pdf)/[Code](https://github.com/yangxuntu/lxmertcatt)
 20 | **2021**| **SIGIR** | Deconfounded Video Moment Retrieval with Causal Intervention | [Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462823)/[Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
+21 | **2020**| **PR** | Towards Non-I.I.D. Image Classification: A Dataset and Baselines | [Paper](http://pengcui.thumedialab.com/papers/NICO.pdf)/[Code](https://nico.thumedialab.com/)
 
 ------
 ## Cross domain & out-of-distribution detection with other methodologies
@@ -49,6 +50,8 @@ This repository summarizes recent publications towards causal learning.
  
 ------
 ## Relative Links
+
+[Out-of-Distribution Generalization: Categories and Paper List](https://out-of-distribution-generalization.com/)
 
 [因果启发的稳定学习等](https://search.bilibili.com/all?keyword=%E5%B4%94%E9%B9%8F%20%E5%9B%A0%E6%9E%9C&from_source=webtop_search&spm_id_from=333.788)
 
