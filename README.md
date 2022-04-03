@@ -32,7 +32,7 @@ This repository summarizes recent publications towards causal learning.
 21 | **2020**| **PR** | Towards Non-I.I.D. Image Classification: A Dataset and Baselines | [Paper](http://pengcui.thumedialab.com/papers/NICO.pdf)/[Code](https://nico.thumedialab.com/)
 
 ------
-## Cross domain & out-of-distribution detection with other methodologies
+## Cross domain & out-of-distribution detection with related methodologies
 
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-:| :-: | :-  | :-: 
