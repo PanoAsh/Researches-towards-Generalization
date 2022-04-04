@@ -50,6 +50,14 @@ This repository summarizes recent publications towards causal learning.
 01 | **2021**| **arXiv** | Toward Causal Representation Learning  | [Paper](https://arxiv.org/pdf/2102.11107.pdf)/Code
 02 | **2021**| **arXiv** | Towards Out-Of-Distribution Generalization: A Survey | [Paper](http://pengcui.thumedialab.com/papers/OOD_Survey.pdf)/Code
 03 | **2021**| **arXiv** | Dense Uncertainty Estimation | [Paper](https://arxiv.org/pdf/2110.06427.pdf)/[Code](https://github.com/JingZhang617/UncertaintyEstimation)
+
+------
+## Interdisciplinary Perspectives
+
+**No.** | **Year** | **Pub.** | **Title** | **Links** 
+:-: | :-:| :-: | :-  | :-: 
+01 | **2021**| **NeurIPS** | A Topological Perspective on Causal Inference  | [Paper](https://proceedings.neurips.cc/paper/2021/file/2c463dfdde588f3bfc60d53118c10d6b-Paper.pdf)/Code
+02 | **2020**| **JMLR** | Topology of Deep Neural Networks  | [Paper](https://www.jmlr.org/papers/volume21/20-345/20-345.pdf)/Code
  
 ------
 ## Relative Links
