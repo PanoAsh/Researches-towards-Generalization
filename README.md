@@ -58,10 +58,11 @@ This repository summarizes recent publications towards causal learning.
 :-: | :-:| :-: | :-  | :-: 
 01 | **2021**| **NeurIPS** | A Topological Perspective on Causal Inference  | [Paper](https://proceedings.neurips.cc/paper/2021/file/2c463dfdde588f3bfc60d53118c10d6b-Paper.pdf)/Code
 02 | **2020**| **JMLR** | Topology of Deep Neural Networks  | [Paper](https://www.jmlr.org/papers/volume21/20-345/20-345.pdf)/Code
-03 | **2018**| **arXiv** | Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution  | [Paper](https://arxiv.org/pdf/1801.04016.pdf)/Code
  
 ------
 ## Relative Links
+
+[Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution](https://arxiv.org/pdf/1801.04016.pdf)
 
 [Out-of-Distribution Generalization: Categories and Paper List](https://out-of-distribution-generalization.com/)
 
