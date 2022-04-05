@@ -32,7 +32,9 @@ This repository summarizes recent publications towards causal learning.
 21 | **2021**| **SIGIR** | Deconfounded Video Moment Retrieval with Causal Intervention | [Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462823)/[Code](https://github.com/Xun-Yang/Causal_Video_Moment_Retrieval)
 22 | **2021**| **BMVC** | ECINN: Efficient Counterfactuals from Invertible Neural Networks | [Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0570.pdf)/Code
 23 | **2020**| **PR** | Towards Non-I.I.D. Image Classification: A Dataset and Baselines | [Paper](http://pengcui.thumedialab.com/papers/NICO.pdf)/[Code](https://nico.thumedialab.com/)
-24 | **2018**| **ACM MM** | Causally Regularized Learning with Agnostic Data Selection Bias | [Paper](https://arxiv.org/pdf/1708.06656.pdf)/Code
+24 | **2020**| **CVPR** | Visual Commonsense R-CNN | [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Visual_Commonsense_R-CNN_CVPR_2020_paper.pdf)/[Code](https://github.com/Wangt-CN/VC-R-CNN)
+25 | **2020**| **NeurIPS** | Causal Intervention for Weakly-Supervised Semantic Segmentation | [Paper](https://proceedings.neurips.cc/paper/2020/file/07211688a0869d995947a8fb11b215d6-Paper.pdf)/[Code](https://github.com/dongzhang89/CONTA)
+26 | **2018**| **ACM MM** | Causally Regularized Learning with Agnostic Data Selection Bias | [Paper](https://arxiv.org/pdf/1708.06656.pdf)/Code
 
 ------
 ## Cross domain & out-of-distribution detection with other methodologies
