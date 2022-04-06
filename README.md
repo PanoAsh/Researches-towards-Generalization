@@ -43,6 +43,7 @@ This repository summarizes recent publications towards causal learning.
 :-: | :-:| :-: | :-  | :-: 
 01 | **2022**| **AAAI** | Cross-Domain Empirical Risk Minimization for Unbiased Long-tailed Classification | [Paper](https://arxiv.org/pdf/2112.14380.pdf)/[Code](https://github.com/BeierZhu/xERM)
 02 | **2022**| **CVPR** | Towards Unsupervised Domain Generalization | [Paper](http://pengcui.thumedialab.com/papers/UDG.pdf)/Code
+03 | **2022**| **CVPR** | Unsupervised Domain Generalization by Learning a Bridge Across Domains | [Paper](https://arxiv.org/pdf/2112.02300.pdf)/Code
 
 ------
 ## Reviews
@@ -83,6 +84,8 @@ This repository summarizes recent publications towards causal learning.
 [Awesome Causal Vision](https://github.com/wangzheng17/awesome-causal-vision)
 
 [Awesome Causality Algorithms](https://github.com/rguo12/awesome-causality-algorithms)
+
+[Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 
 [Why Machine Learning Struggles with Causality](https://bdtechtalks.com/2021/03/15/machine-learning-causality/)
 
