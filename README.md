@@ -37,7 +37,7 @@ This repository summarizes recent publications towards causal learning.
 26 | **2018**| **ACM MM** | Causally Regularized Learning with Agnostic Data Selection Bias | [Paper](https://arxiv.org/pdf/1708.06656.pdf)/Code
 
 ------
-## Cross domain & out-of-distribution detection with other methodologies
+## General cross domain & out-of-distribution detection
 
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-:| :-: | :-  | :-: 
