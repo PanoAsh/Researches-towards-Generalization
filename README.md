@@ -45,7 +45,7 @@ This repository summarizes recent publications towards causal learning.
 02 | **2022**| **CVPR** | Towards Unsupervised Domain Generalization | [Paper](http://pengcui.thumedialab.com/papers/UDG.pdf)/Code
 03 | **2022**| **CVPR** | Unsupervised Domain Generalization by Learning a Bridge Across Domains | [Paper](https://arxiv.org/pdf/2112.02300.pdf)/Code
 04 | **2022**| **ICLR** | Salient ImageNet: How to discover spurious features in Deep Learning? | [Paper](https://openreview.net/pdf?id=XVPqLyNxSyh)/[Code](https://github.com/singlasahil14/salient_imagenet)
-05 | **2021**| **ICML** | WILDS: A Benchmark of in-the-Wild Distribution Shifts | [Paper](http://proceedings.mlr.press/v139/koh21a/koh21a.pdf)/Code
+05 | **2021**| **ICML** | WILDS: A Benchmark of in-the-Wild Distribution Shifts | [Paper](http://proceedings.mlr.press/v139/koh21a/koh21a.pdf)/[Code](https://wilds.stanford.edu/)
 
 ------
 ## Reviews
