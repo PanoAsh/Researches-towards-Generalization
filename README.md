@@ -71,6 +71,10 @@ This repository summarizes recent publications towards causal learning.
 
 ### Generative Models
 
+
+**No.** | **Year** | **Pub.** | **Title** | **Links** 
+:-: | :-:| :-: | :-  | :-: 
+01 | **2022**| **arXiv** | Video Diffusion Models | [Paper](https://arxiv.org/pdf/2204.03458.pdf)/[Code](https://video-diffusion.github.io/)
  
 ------
 ## Relative Links
