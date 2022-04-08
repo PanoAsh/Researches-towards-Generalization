@@ -62,10 +62,15 @@ This repository summarizes recent publications towards causal learning.
 ------
 ## Interdisciplinary Perspectives
 
+### Topology & Neural Networks & Causal Learning 
+
 **No.** | **Year** | **Pub.** | **Title** | **Links** 
 :-: | :-:| :-: | :-  | :-: 
 01 | **2021**| **NeurIPS** | A Topological Perspective on Causal Inference  | [Paper](https://proceedings.neurips.cc/paper/2021/file/2c463dfdde588f3bfc60d53118c10d6b-Paper.pdf)/Code
 02 | **2020**| **JMLR** | Topology of Deep Neural Networks  | [Paper](https://www.jmlr.org/papers/volume21/20-345/20-345.pdf)/Code
+
+### Generative Models
+
  
 ------
 ## Relative Links
