@@ -79,8 +79,9 @@ This repository summarizes recent publications towards causal learning.
 03 | **2021**| **ICLR** | Learning Energy-Based Models by Diffusion Recovery Likelihood | [Paper](https://openreview.net/pdf?id=v_1Soh8QUNc)/[Code](https://github.com/ruiqigao/recovery_likelihood)
 04 | **2021**| **ICLR** | Score-Based Generative Modeling through Stochastic Differential Equations | [Paper](https://openreview.net/pdf?id=PxTIG12RRHS)/[Code](https://github.com/yang-song/score_sde)
 05 | **2021**| **NeurIPS** | Diffusion Models Beat GANs on Image Synthesis  | [Paper](https://openreview.net/pdf?id=AAWuCvzaVt)/[Code](https://github.com/openai/guided-diffusion)
-06 | **2020**| **NeurIPS** | Denoising Diffusion Probabilistic Models | [Paper](https://proceedings.neurips.cc//paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)/[Code](https://github.com/hojonathanho/diffusion)
-07 | **2015**| **ICML** | Deep Unsupervised Learning using Nonequilibrium Thermodynamics | [Paper](https://arxiv.org/pdf/1503.03585.pdf)/[Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)
+06 | **2021**| **arXiv** |  Improved Denoising Diffusion Probabilistic Models | [Paper](https://arxiv.org/pdf/2102.09672.pdf)/[Code](https://github.com/openai/improved-diffusion)
+07 | **2020**| **NeurIPS** | Denoising Diffusion Probabilistic Models | [Paper](https://proceedings.neurips.cc//paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)/[Code](https://github.com/hojonathanho/diffusion)
+08 | **2015**| **ICML** | Deep Unsupervised Learning using Nonequilibrium Thermodynamics | [Paper](https://arxiv.org/pdf/1503.03585.pdf)/[Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)
  
 ------
 ## Relative Links
