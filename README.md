@@ -1,6 +1,6 @@
 # Researches in Causality & Deep Learning & Generative Models
 
-This repository summarizes recent publications towards causal learning.
+This repository summarizes recent publications towards causal learning and generative models.
 
 :running: :running: :running: ***KEEP UPDATING***
 
