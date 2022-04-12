@@ -1,4 +1,4 @@
-# Researches in Causality & Deep Learning & Generative Models
+# Researches in Causality & Generative Models
 
 This repository summarizes recent publications towards causal learning and generative models.
 
