@@ -1,6 +1,6 @@
 # Researches in Causality & Generative Models & Out-of-Distribution Detection
 
-This repository summarizes recent publications towards causal learning, specific classes of generative models and general OOD methodologies.
+This repository summarizes recent publications towards causal learning, specific classes of generative models and various OOD related methodologies.
 
 :running: :running: :running: ***KEEP UPDATING***
 
