@@ -80,11 +80,12 @@ This repository summarizes recent publications towards causal learning, specific
 04 | **2022**| **ICLR** |  Label-Efficient Semantic Segmentation with Diffusion Models | [Paper](https://arxiv.org/pdf/2112.03126.pdf)/[Code](https://github.com/yandex-research/ddpm-segmentation)
 05 | **2021**| **ICLR** | Learning Energy-Based Models by Diffusion Recovery Likelihood | [Paper](https://openreview.net/pdf?id=v_1Soh8QUNc)/[Code](https://github.com/ruiqigao/recovery_likelihood)
 06 | **2021**| **ICLR** | Score-Based Generative Modeling through Stochastic Differential Equations | [Paper](https://openreview.net/pdf?id=PxTIG12RRHS)/[Code](https://github.com/yang-song/score_sde)
-07 | **2021**| **NeurIPS** | Diffusion Models Beat GANs on Image Synthesis  | [Paper](https://openreview.net/pdf?id=AAWuCvzaVt)/[Code](https://github.com/openai/guided-diffusion)
-08 | **2021**| **ICML** |  Improved Denoising Diffusion Probabilistic Models | [Paper](https://arxiv.org/pdf/2102.09672.pdf)/[Code](https://github.com/openai/improved-diffusion)
-09 | **2021**| **arXiv** |  SegDiff: Image Segmentation with Diffusion Probabilistic Models | [Paper](https://arxiv.org/pdf/2112.00390.pdf)/Code
-10 | **2020**| **NeurIPS** | Denoising Diffusion Probabilistic Models | [Paper](https://proceedings.neurips.cc//paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)/[Code](https://github.com/hojonathanho/diffusion)
-11 | **2015**| **ICML** | Deep Unsupervised Learning using Nonequilibrium Thermodynamics | [Paper](https://arxiv.org/pdf/1503.03585.pdf)/[Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)
+07 | **2021**| **ICLR** | Multiscale Score Matching for Out-of-Distribution Detection | [Paper](https://openreview.net/pdf?id=xoHdgbQJohv)/[Code](https://github.com/ahsanMah/msma)
+08 | **2021**| **NeurIPS** | Diffusion Models Beat GANs on Image Synthesis  | [Paper](https://openreview.net/pdf?id=AAWuCvzaVt)/[Code](https://github.com/openai/guided-diffusion)
+09 | **2021**| **ICML** |  Improved Denoising Diffusion Probabilistic Models | [Paper](https://arxiv.org/pdf/2102.09672.pdf)/[Code](https://github.com/openai/improved-diffusion)
+10 | **2021**| **arXiv** |  SegDiff: Image Segmentation with Diffusion Probabilistic Models | [Paper](https://arxiv.org/pdf/2112.00390.pdf)/Code
+11 | **2020**| **NeurIPS** | Denoising Diffusion Probabilistic Models | [Paper](https://proceedings.neurips.cc//paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)/[Code](https://github.com/hojonathanho/diffusion)
+12 | **2015**| **ICML** | Deep Unsupervised Learning using Nonequilibrium Thermodynamics | [Paper](https://arxiv.org/pdf/1503.03585.pdf)/[Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)
  
 ------
 ## Relative Links
