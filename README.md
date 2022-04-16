@@ -90,6 +90,8 @@ This repository summarizes recent publications towards causal learning, specific
 ------
 ## Relative Links
 
+### causality & OOD
+
 [Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution](https://arxiv.org/pdf/1801.04016.pdf)
 
 [Out-of-Distribution Generalization: Categories and Paper List](https://out-of-distribution-generalization.com/)
@@ -117,6 +119,12 @@ This repository summarizes recent publications towards causal learning, specific
 [A Crash Course in Causality](https://www.coursera.org/learn/crash-course-in-causality)
 
 [Causality and Bayesian Networks](https://towardsdatascience.com/causality-and-bayesian-networks-fcd959d4c80a)
+
+### Generative Models
+[VAE](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+[CVAE](https://agustinus.kristia.de/techblog/2016/12/17/conditional-vae/)
+[SBMs](https://ayandas.me/blog-tut/2021/07/14/generative-model-score-function.html)
+[DPMs](https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html)
 
 
 ------
