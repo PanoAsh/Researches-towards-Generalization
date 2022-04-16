@@ -121,10 +121,11 @@ This repository summarizes recent publications towards causal learning, specific
 [Causality and Bayesian Networks](https://towardsdatascience.com/causality-and-bayesian-networks-fcd959d4c80a)
 
 ### Generative Models
-[VAE](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
-[CVAE](https://agustinus.kristia.de/techblog/2016/12/17/conditional-vae/)
+[VAEs](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+[CVAEs](https://agustinus.kristia.de/techblog/2016/12/17/conditional-vae/)
 [SBMs](https://ayandas.me/blog-tut/2021/07/14/generative-model-score-function.html)
 [DPMs](https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html)
+[SBMs&SDEs&DPMs](https://yang-song.github.io/blog/2021/score/)
 
 
 ------
