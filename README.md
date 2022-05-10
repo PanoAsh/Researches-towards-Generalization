@@ -2,8 +2,6 @@
 
 This repository summarizes recent publications towards causal learning, specific classes of generative models and various methodologies for OOD detection.
 
-:running: :running: :running: ***KEEP UPDATING***
-
 ------
 ## Causality
 
