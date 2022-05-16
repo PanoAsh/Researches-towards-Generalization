@@ -83,7 +83,8 @@ This repository summarizes recent publications towards causal learning, specific
 09 | **2021**| **ICML** |  Improved Denoising Diffusion Probabilistic Models | [Paper](https://arxiv.org/pdf/2102.09672.pdf)/[Code](https://github.com/openai/improved-diffusion)
 10 | **2021**| **arXiv** |  SegDiff: Image Segmentation with Diffusion Probabilistic Models | [Paper](https://arxiv.org/pdf/2112.00390.pdf)/Code
 11 | **2020**| **NeurIPS** | Denoising Diffusion Probabilistic Models | [Paper](https://proceedings.neurips.cc//paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf)/[Code](https://github.com/hojonathanho/diffusion)
-12 | **2015**| **ICML** | Deep Unsupervised Learning using Nonequilibrium Thermodynamics | [Paper](https://arxiv.org/pdf/1503.03585.pdf)/[Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)
+12 | **2019**| **ICLR** | Do Deep Generative Models Know What They Don't Know? | [Paper](https://openreview.net/forum?id=H1xwNhCcYm)/[Code](https://paperswithcode.com/paper/do-deep-generative-models-know-what-they-dont)
+13 | **2015**| **ICML** | Deep Unsupervised Learning using Nonequilibrium Thermodynamics | [Paper](https://arxiv.org/pdf/1503.03585.pdf)/[Code](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)
  
 ------
 ## Relative Links
