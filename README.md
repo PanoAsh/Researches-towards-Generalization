@@ -89,6 +89,10 @@ This repository summarizes recent publications towards causal learning, specific
 ------
 ## Relative Links
 
+### generative models
+
+[Blogs towards basic ideas of widely used generative models](https://jmtomczak.github.io/blog.html)
+
 ### causality & OOD
 
 [Theoretical Impediments to Machine Learning With Seven Sparks from the Causal Revolution](https://arxiv.org/pdf/1801.04016.pdf)
