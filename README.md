@@ -89,9 +89,6 @@ This repository summarizes recent publications towards causal learning, specific
 ------
 ## Relative Links
 
-### generative models
-
-[Blogs towards basic ideas of widely used generative models](https://jmtomczak.github.io/blog.html)
 
 ### causality & OOD
 
@@ -129,6 +126,10 @@ This repository summarizes recent publications towards causal learning, specific
 [SBMs](https://ayandas.me/blog-tut/2021/07/14/generative-model-score-function.html)
 [DPMs](https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html)
 [SBMs&SDEs&DPMs](https://yang-song.github.io/blog/2021/score/)
+
+
+[Blogs towards basic ideas of widely used generative models](https://jmtomczak.github.io/blog.html)
+
 
 
 ------
