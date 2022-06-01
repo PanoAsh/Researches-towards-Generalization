@@ -130,9 +130,3 @@ This repository summarizes recent publications towards causal learning, specific
 
 [Blogs towards basic ideas of widely used generative models](https://jmtomczak.github.io/blog.html)
 
-
-
-------
-## Contact
-
-yi.panoash@gmail.com
